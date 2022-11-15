@@ -4,6 +4,7 @@
   "description": "A controller for proxying requests created for use with HttpService in Roblox.",
   "main": "server.js",
   "dependencies": {
+    "dotenv": "^16.0.3",
     "http-proxy": "^1.18.1"
   },
   "repository": {
