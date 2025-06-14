@@ -4,18 +4,17 @@
   "description": "A controller for proxying requests created for use with HttpService in Roblox.",
   "main": "server.js",
   "dependencies": {
-    "http-proxy": "^1.18.1",
-    "vercel": "^43.0.0"
+    "http-proxy": "1.18.1",
+    "vercel": "43.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sentanos/ProxyService.git"
+    "url": "https://github.com/scratchusernamemrtbts/ProxyService.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "Froast <froastj@gmail.com>",
   "license": "MIT",
   "pnpm": {
     "onlyBuiltDependencies": [
@@ -23,6 +22,11 @@
     ]
   },
   "devDependencies": {
-    "@types/http-proxy": "^1.17.16"
-  }
+    "@types/http-proxy": "1.17.16"
+  },
+  "engines": {
+    "node": "22",
+    "pnpm": "10.4.0"
+  },
+  "packageManager": "pnpm@10.4.0"
 }
