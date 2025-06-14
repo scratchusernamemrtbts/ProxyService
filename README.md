@@ -1,3 +1,8 @@
+# ProxyService
+this is a modified fork from https://github.com/sentanos/ProxyService for deploying on vercel
+i probably won't be responding to issues and pr but feel free to send one in
+below is the contents of the old readme
+
 ## ProxyService
 
 Roblox's HttpService has always been severely lacking. This open-source project essentially aims to serve as a replacement, providing an Http client that opens the door to actually using REST APIs, reading response headers, reading status codes, accessing roblox.com from in-game, and more.
