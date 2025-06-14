@@ -23,5 +23,10 @@
   },
   "devDependencies": {
     "@types/http-proxy": "1.17.16"
-  }
+  },
+  "engines": {
+    "node": "22",
+    "pnpm": "10.4.0"
+  },
+  "packageManager": "pnpm@10.4.0"
 }
