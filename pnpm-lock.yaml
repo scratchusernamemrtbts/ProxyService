@@ -12,8 +12,8 @@ importers:
         specifier: 1.18.1
         version: 1.18.1
       vercel:
-        specifier: 43.1.0
-        version: 43.1.0
+        specifier: 43.2.0
+        version: 43.2.0
     devDependencies:
       '@types/http-proxy':
         specifier: 1.17.16
@@ -987,8 +987,8 @@ packages:
   v8-compile-cache-lib@3.0.1:
     resolution: {integrity: sha512-wa7YjyUGfNZngI/vtK0UHAN+lgDCxBPCylVXGp0zu59Fz5aiGtNXaq3DhIov063MorB+VfufLh3JlF2KdTK3xg==}
 
-  vercel@43.1.0:
-    resolution: {integrity: sha512-r+2KGg6/pGKlU1oYd8RgKlu059/62JGhwMwHLPVckGkCmAq7T9DgNGOZ5dtEvT4h09ztGVqaI2EKAc3ncuJjVw==}
+  vercel@43.2.0:
+    resolution: {integrity: sha512-e47JEu7Hk5XA+FysBN4ZH9XiM1+RRRW9FC4fo5dDXsnHSsVlMkU1WWa8B4OERPYEqQGS2usfUf9kRAsNBShWGQ==}
     engines: {node: '>= 18'}
     hasBin: true
 
@@ -1957,7 +1957,7 @@ snapshots:
 
   v8-compile-cache-lib@3.0.1: {}
 
-  vercel@43.1.0:
+  vercel@43.2.0:
     dependencies:
       '@vercel/blob': 1.0.2
       '@vercel/build-utils': 10.6.1
