@@ -22,7 +22,7 @@
     ]
   },
   "devDependencies": {
-    "@types/http-proxy": "1.17.16"
+    "@types/http-proxy": "1.17.17"
   },
   "engines": {
     "node": "22",
