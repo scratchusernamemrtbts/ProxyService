@@ -5,7 +5,7 @@
   "main": "server.js",
   "dependencies": {
     "http-proxy": "1.18.1",
-    "vercel": "43.3.0"
+    "vercel": "49.2.0"
   },
   "repository": {
     "type": "git",
